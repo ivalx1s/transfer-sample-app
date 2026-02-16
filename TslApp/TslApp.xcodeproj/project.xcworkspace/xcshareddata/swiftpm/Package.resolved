@@ -1,0 +1,15 @@
+{
+  "originHash" : "34cc4cf5893e9f03f1b415f07ac03fac2cc1d4b734c9de8268f90b09e5714974",
+  "pins" : [
+    {
+      "identity" : "transfer-sample-lib",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/ivalx1s/transfer-sample-lib.git",
+      "state" : {
+        "revision" : "08e796dc71269b39228de5a278ce724b2e54fcf1",
+        "version" : "0.0.1"
+      }
+    }
+  ],
+  "version" : 3
+}
